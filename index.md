@@ -68,7 +68,7 @@ I currently stay on campus at IIT Madras in Pampa Hostel, while my native place 
 
 ### You can find me at ...
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15550.931027318224!2d80.2322199!3d12.9889372!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d8002066921%3A0x72ac64139aeaf118!2sDepartment%20Of%20Physics%2C%20Indian%20Institute%20Of%20Technology%20Madras!5e0!3m2!1sen!2sin!4v1706779789311!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15550.931027318224!2d80.2322199!3d12.9889372!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d8002066921%3A0x72ac64139aeaf118!2sDepartment%20Of%20Physics%2C%20Indian%20Institute%20Of%20Technology%20Madras!5e0!3m2!1sen!2sin!4v1706779789311!5m2!1sen!2sin" width="200" height="175" style="float: right; border:0; padding-left: 10px; padding-bottom: 5px;" allowfullscreen="" loading="lazy"> </iframe>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
