@@ -64,7 +64,7 @@ I currently stay on campus at IIT Madras in Pampa Hostel, while my native place 
 | 2020 - now | M.Sc (2020-2022) & Ph.D. (2022-now) in Physics, IIT Madras. <img style="float: right;" src="img/iitm.png" alt="dp" width="50" height="50"/> |
 | 2017 - 2020 | B.Sc with Physics (Hons.), Ramakrishna Mission Residential college, Narendrapur. <img style="float: right;" src="img/Emblem-Ramakrishna-Mission-Transparent.png" alt="dp" width="50" height="60"/>|
 
-> <div align="center"> <p> My CV is available <a href="https://drive.google.com/file/d/1pDmqyZtTw7QiOCLzVDtpZioT9_SFtdWR/view?usp=sharing)">here</a>.</p></div>
+> <div align="center"> <p> My CV is available <a href="https://drive.google.com/file/d/1h8VRTd9gGc8mKP_DXcFCclg3f5M27DRX/view">here</a>.</p></div>
 
 ### You can find me at ...
 
