@@ -53,16 +53,16 @@ layout: default
 
 ### Hey!
 
-I am currently a Ph.D scholar at the [Department of Physics](https://physics.iitm.ac.in), Indian Institute of Technology (IIT) Madras, Chennai. I work with [Prof. L. Sriramkumar]([https://physics.iitm.ac.in/~sriram/index.html]). My interests are in the area of *cosmological inflation* and *data analysis of Cosmic Microwave Background*. I am also quite interested in learning about applications of *machine learning* in physics simulations.
+I am currently a Ph.D. scholar at the [Department of Physics](https://physics.iitm.ac.in), Indian Institute of Technology (IIT) Madras, Chennai. I work with [Prof. L. Sriramkumar]([https://physics.iitm.ac.in/~sriram/index.html]). My interests are in the area of *cosmological inflation* and *data analysis of Cosmic Microwave Background*. I am also quite interested in learning about applications of *machine learning* in physics simulations.
 
-I currently stay on campus at IIT Madras in Pampa Hostel, while my native place is back in the town of [Ranaghat]([https://en.wikipedia.org/wiki/Ranaghat]), West Bengal. Apart from my academic interests, I am passionate about programming and photography (check out my [<i class="fa fa-instagram fa-lg"></i>]). I loved to watch football, and I believe football is the greatest sports in the world.
+My hometown is [Ranaghat]([https://en.wikipedia.org/wiki/Ranaghat]), West Bengal, and I currently live on campus at IIT Madras in Pampa Hostel. In addition to my academic interests, I like programming and football. I enjoy watching football and believe it is the finest sport in the world. In my spare time, I also enjoy playing the guitar.
 
 ### Academics
 
 | Year | Details |
 | --- | --- |
 | 2020 - now | M.Sc (2020-2022) & Ph.D. (2022-now) in Physics, IIT Madras. <img style="float: right;" src="img/iitm.png" alt="dp" width="50" height="50"/> |
-| 2017 - 2020 | B.Sc with Physics (Hons.), Ramakrishna Mission Residential college, Narendrapur. <img style="float: right;" src="img/Emblem-Ramakrishna-Mission-Transparent.png" alt="dp" width="50" height="60"/>|
+| 2017 - 2020 | B.Sc with Physics (Hons.), Ramakrishna Mission Residential College, Narendrapur. <img style="float: right;" src="img/Emblem-Ramakrishna-Mission-Transparent.png" alt="dp" width="50" height="60"/>|
 
 > <div align="center"> <p> My CV is available <a href="https://drive.google.com/file/d/1h8VRTd9gGc8mKP_DXcFCclg3f5M27DRX/view">here</a>.</p></div>
 
@@ -76,7 +76,7 @@ I currently stay on campus at IIT Madras in Pampa Hostel, while my native place 
 
 ***Email IDs.*** alipriyo12 [at] [gmail.com (personal email); ph20d203 [at] smail.iitm.ac.in / alipriyo [at] physics.iitm.ac.in (IITM - work emails)].
 
-***Office Address.*** HSB 202, Department of physics, Indian Institute of Technology Madras, Chennai 600036.
+***Office Address.*** HSB 202, Department of Physics, Indian Institute of Technology Madras, Chennai 600036.
 
 [<i class="fa fa-google fa-lg"></i>-scholar]: https://scholar.google.com/citations?hl=en&view_op=list_works&alert_preview_top_rm=2&authuser=2&gmla=AJsN-F6rWGoE7sGF-2nr8CLDhXm_38Ftp_fxX0X6ieV4zVOmsXvQaDZkf6P2HSbFReOJ4TNweS9QakTMbQz0h0yQ-0dhqCcDUmkL28jKTIbk-G91L3hjPyE&user=2OR7h7kAAAAJ
 
