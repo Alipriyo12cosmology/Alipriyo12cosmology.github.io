@@ -82,10 +82,10 @@ My hometown is [Ranaghat]([https://en.wikipedia.org/wiki/Ranaghat]), West Bengal
 
 [<i class="fa fa-git fa-lg"></i>hub]: https://github.com/dhrubajyoti98
 
-[Linked<i class="fa fa-linkedin fa-lg"></i>]: https://www.linkedin.com/in/dhrubajyoti-biswas/
+[Linked<i class="fa fa-linkedin fa-lg"></i>]: https://www.linkedin.com/in/
 
 [<i class="fa fa-instagram fa-lg"></i>]: https://www.instagram.com/alarte__ascendare/?next=%2F
 
-[<i class="fa fa-youtube fa-lg"></i>]: https://www.youtube.com/c/DhrubajyotiBiswas2k14
+[<i class="fa fa-youtube fa-lg"></i>]: https://www.youtube.com/c/
 
 [<i class="fa fa-facebook-f fa-lg"></i>acebook]: https://www.facebook.com/alipriyo.hoory
