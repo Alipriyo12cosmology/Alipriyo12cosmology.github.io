@@ -77,52 +77,25 @@ div.desc {
 <div>
 <div class="gallery">
   <a target="_blank" href="img/gallery/nsmbombay.jpg">
-    <img src="img/gallery/nsmbombay.jpg" alt="NSM Bombay" width="600" height="400">
+    <img src="img/gallery/bff.jpg" alt="NSM Bombay" width="600" height="400">
   </a>
   <div class="desc">NSM Workshop on HPC@IIT Bombay</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="img/gallery/cnsdiitk.jpeg">
-    <img src="img/gallery/cnsdiitk.jpeg" alt="CNSD Kanpur" width="600" height="400">
+    <img src="img/gallery/lab.jpg" alt="CNSD Kanpur" width="600" height="400">
   </a>
   <div class="desc">CNSD 2019@IIT Kanpur</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="img/gallery/tubml1.jpeg">
-    <img src="img/gallery/tubml1.jpeg" alt="TUBML Group" width="600" height="400">
+    <img src="img/gallery/lab2.jpg" alt="TUBML Group" width="600" height="400">
   </a>
   <div class="desc">TUBML Group@IIT Madras, 2019</div>
 </div>
 
-<div class="gallery">
-  <a target="_blank" href="img/gallery/iiser.jpg">
-    <img src="img/gallery/iiser.jpg" alt="TUBML Group" width="600" height="400">
-  </a>
-  <div class="desc">With Prof. Soumitro Banerjee@IISER-K</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img/gallery/tubml22.png">
-    <img src="img/gallery/tubml22.png" alt="TUBML Group" width="600" height="400">
-  </a>
-  <div class="desc">TUBML Group Outing, 2022</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img/gallery/vaibhav_group.jpg">
-    <img src="img/gallery/vaibhav_group.jpg" alt="TUBML Group" width="600" height="400">
-  </a>
-  <div class="desc">Prof. Madhok's Group, 2022</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img/gallery/new.jpg">
-    <img src="img/gallery/new.jpg" alt="TUBML Group" width="600" height="400">
-  </a>
-  <div class="desc">Epidemic Modeling Symp. 2022</div>
-</div>
 
 </div>
 
