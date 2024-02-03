@@ -69,4 +69,4 @@ I am intrigued by all domains of the physical and mathematical sciences, but I a
 - [Statistical Methods and Machine Learning in High Energy Physics (ML4HEP)](https://www.icts.res.in/program/ML4HEP); International centre for theoretical science, Bengaluru.
 
 
-[<i class="fa fa-google fa-1x"></i>-scholar]: https://scholar.google.com/citations?hl=en&view_op=list_works&alert_preview_top_rm=2&authuser=2&gmla=AJsN-F6rWGoE7sGF-2nr8CLDhXm_38Ftp_fxX0X6ieV4zVOmsXvQaDZkf6P2HSbFReOJ4TNweS9QakTMbQz0h0yQ-0dhqCcDUmkL28jKTIbk-G91L3hjPyE&user=2OR7h7kAAAAJ
+[<i class="fa fa-google fa-1x"></i>-scholar]: https://scholar.google.com/citations?hl=en&view_op=list_works&alert_preview_top_rm=2&authuser=2&gmla=AJsN-F6rWGoE7sGF-2nr8CLDhXm_38Ftp_fx
