@@ -98,13 +98,6 @@ div.desc {
 
 
 
-</div>
-
-<div class="div2">
-
-
-
-
 <!--<ol>
 <li><a href="https://dashing-kiwi-f01.notion.site/Random-stuff-I-find-extremely-interesting-and-or-useful-bdf4d7b424a440beac9458d986d56aac)">Random stuff I find extremely interesting and/or useful</a>.</li>
 
