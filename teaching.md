@@ -51,7 +51,7 @@ theme: default
 - PH1010 Introductory physics course for UGs.
 - PH1030 Physics Lab for UGs.
 - PH5875 Advance General relativity.
-- EP2210 Quantum mechanics for ug
+- EP2210 Quantum mechanics for UGs.
 
 ### Others
 
