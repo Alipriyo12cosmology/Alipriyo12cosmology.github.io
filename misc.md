@@ -95,7 +95,7 @@ div.desc {
   </a>
   <div class="desc">Treking best friends</div>
 </div>
-</div>
+
 
 
 </div>
