@@ -94,11 +94,7 @@ div.desc {
 
 </div>
 
-
-
 <div class="div2">
-
-<br>
 
 <h3>Personal photos</h3>
 
