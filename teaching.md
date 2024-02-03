@@ -50,8 +50,9 @@ theme: default
 
 - PH1010 Introductory physics course for UGs.
 - PH1030 Physics Lab for UGs.
-- PH5500 Dynamical Systems.
+- PH5875 Advance General relativity.
+- EP2210 Quantum mechanics for ug
 
 ### Others
 
-- NSM Course on [Scientific Computing on GPUs with OpenACC](http://www.cse.iitm.ac.in/~rupesh/events/openacc23/), Nov 4-25 2023 [[Course Material](https://dhrubajyoti98.github.io/teach_openacc23/)].
+....
