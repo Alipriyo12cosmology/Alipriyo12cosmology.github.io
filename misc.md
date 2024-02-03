@@ -102,7 +102,7 @@ div.desc {
 
 <div class="div2">
 
-<h3>Personal photos</h3>
+
 
 
 <!--<ol>
