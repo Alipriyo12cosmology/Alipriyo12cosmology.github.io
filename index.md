@@ -78,9 +78,9 @@ My hometown is [Ranaghat]([https://en.wikipedia.org/wiki/Ranaghat]), West Bengal
 
 ***Office Address.*** HSB 202, Department of Physics, Indian Institute of Technology Madras, Chennai 600036.
 
-[<i class="fa fa-google fa-lg"></i>-scholar]: https://scholar.google.com/citations?hl=en&view_op=list_works&alert_preview_top_rm=2&authuser=2&gmla=AJsN-F6rWGoE7sGF-2nr8CLDhXm_38Ftp_fxX0X6ieV4zVOmsXvQaDZkf6P2HSbFReOJ4TNweS9QakTMbQz0h0yQ-0dhqCcDUmkL28jKTIbk-G91L3hjPyE&user=2OR7h7kAAAAJ
+[<i class="fa fa-google fa-lg"></i>-scholar]: https://scholar.google.com/
 
-[<i class="fa fa-git fa-lg"></i>hub]: https://github.com/dhrubajyoti98
+[<i class="fa fa-git fa-lg"></i>hub]: https://github.com/dhrubajyoti98](https://github.com/Alipriyo12cosmology
 
 [Linked<i class="fa fa-linkedin fa-lg"></i>]: https://www.linkedin.com/in/
 
