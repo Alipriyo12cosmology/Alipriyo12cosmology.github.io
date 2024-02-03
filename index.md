@@ -80,7 +80,7 @@ My hometown is [Ranaghat]([https://en.wikipedia.org/wiki/Ranaghat]), West Bengal
 
 [<i class="fa fa-google fa-lg"></i>-scholar]: https://scholar.google.com/
 
-[<i class="fa fa-git fa-lg"></i>hub]: https://github.com/dhrubajyoti98](https://github.com/Alipriyo12cosmology
+[<i class="fa fa-git fa-lg"></i>hub]: https://github.com/Alipriyo12cosmology
 
 [Linked<i class="fa fa-linkedin fa-lg"></i>]: https://www.linkedin.com/in/
 
