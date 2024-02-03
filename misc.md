@@ -89,6 +89,12 @@ div.desc {
     <img src="img/gallery/lab2.jpg" alt="TUBML Group" width="600" height="400">
   </a>
   <div class="desc">Cosmology group</div>
+<div class="gallery">
+  <a target="_blank" href="img/gallery/nsmbombay.jpg">
+    <img src="img/gallery/bff.jpg" alt="NSM Bombay" width="600" height="400">
+  </a>
+  <div class="desc">Treking best friends</div>
+</div>
 </div>
 
 
@@ -98,12 +104,7 @@ div.desc {
 
 <h3>Personal photos</h3>
 
-<div class="gallery">
-  <a target="_blank" href="img/gallery/nsmbombay.jpg">
-    <img src="img/gallery/bff.jpg" alt="NSM Bombay" width="600" height="400">
-  </a>
-  <div class="desc">Treking best friends</div>
-</div>
+
 <!--<ol>
 <li><a href="https://dashing-kiwi-f01.notion.site/Random-stuff-I-find-extremely-interesting-and-or-useful-bdf4d7b424a440beac9458d986d56aac)">Random stuff I find extremely interesting and/or useful</a>.</li>
 
