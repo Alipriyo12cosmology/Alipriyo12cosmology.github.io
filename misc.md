@@ -75,25 +75,20 @@ div.desc {
 
 ### Some Pictures
 <div>
-<div class="gallery">
-  <a target="_blank" href="img/gallery/nsmbombay.jpg">
-    <img src="img/gallery/bff.jpg" alt="NSM Bombay" width="600" height="400">
-  </a>
-  <div class="desc">NSM Workshop on HPC@IIT Bombay</div>
-</div>
+
 
 <div class="gallery">
   <a target="_blank" href="img/gallery/cnsdiitk.jpeg">
     <img src="img/gallery/lab.jpg" alt="CNSD Kanpur" width="600" height="400">
   </a>
-  <div class="desc">CNSD 2019@IIT Kanpur</div>
+  <div class="desc">Prof. L. Sriramkumar group</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="img/gallery/tubml1.jpeg">
     <img src="img/gallery/lab2.jpg" alt="TUBML Group" width="600" height="400">
   </a>
-  <div class="desc">TUBML Group@IIT Madras, 2019</div>
+  <div class="desc">Cosmology group</div>
 </div>
 
 
@@ -105,12 +100,14 @@ div.desc {
 
 <br>
 
-<h3>Random Things</h3>
+<h3>Personal photos</h3>
 
-<ol>
-<li>The definitive OpenMP resource : <a href="https://youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG">"A Hands-On Introduction to OpenMP"</a>.</li>
-</ol>
-
+<div class="gallery">
+  <a target="_blank" href="img/gallery/nsmbombay.jpg">
+    <img src="img/gallery/bff.jpg" alt="NSM Bombay" width="600" height="400">
+  </a>
+  <div class="desc">Treking best friends</div>
+</div>
 <!--<ol>
 <li><a href="https://dashing-kiwi-f01.notion.site/Random-stuff-I-find-extremely-interesting-and-or-useful-bdf4d7b424a440beac9458d986d56aac)">Random stuff I find extremely interesting and/or useful</a>.</li>
 
